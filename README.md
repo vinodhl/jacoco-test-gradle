@@ -2,3 +2,5 @@
 
 ## Executing the report
     gradlew build jacocoTestReport
+
+All the jacoco report files are found in build/reports/jacoco/test/html/index.html
